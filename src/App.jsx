@@ -30,6 +30,7 @@ function App() {
       </p>
         <h1>Rezervacije</h1>
         <button>Rezervisi termin</button>
+        <h2>Rezervisano</h2>
     </>
   )
 }
